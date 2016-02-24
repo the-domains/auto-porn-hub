@@ -1,15 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: true
+keywords: []
+description: 'Auto Porn Hub is a community of Auto Enthusiasts who have a love and appreciate for the automobile. This is your world. One place for all things auto. '
+datePublished: '2016-02-24T21:32:26.512Z'
+dateModified: '2016-02-24T21:32:25.746Z'
 title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
 author: []
-datePublished: '2016-02-24T20:53:15.960Z'
-dateModified: '2015-12-11T20:11:30.057Z'
 sourcePath: _posts/2016-02-24-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
